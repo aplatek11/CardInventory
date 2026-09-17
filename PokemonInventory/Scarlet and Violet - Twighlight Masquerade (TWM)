@@ -1,0 +1,228 @@
+| Number | Pokemon Name | Own |
+|--------|--------------|-----|
+| 001 | Tangela | |
+| 002 | Tangrowth | |
+| 003 | Pinsir | Yes |
+| 004 | Spinarak | Yes |
+| 005 | Ariados | |
+| 006 | Sunkern | Yes |
+| 007 | Sunflora | Yes |
+| 008 | Heracross | Yes |
+| 009 | Volbeat | Yes |
+| 010 | Illumise | |
+| 011 | Leafeon | |
+| 012 | Phantump | Yes |
+| 013 | Trevenant | Yes |
+| 014 | Grookey | Yes |
+| 015 | Thwackey | |
+| 016 | Rillaboom | |
+| 017 | Applin | Yes |
+| 018 | Dipplin | Yes |
+| 019 | Iron Leaves | |
+| 020 | Poltchageist | |
+| 021 | Poltchageist | |
+| 022 | Sinistcha | Yes |
+| 023 | Sinistcha ex | |
+| 024 | Teal Mask Ogerpon | Yes |
+| 025 | Teal Mask Ogerpon ex | Yes |
+| 026 | Vulpix | |
+| 027 | Ninetales | |
+| 028 | Slugma | |
+| 029 | Magcargo ex | |
+| 030 | Torkoal | |
+| 031 | Chimchar | |
+| 032 | Monferno | Yes |
+| 033 | Infernape | Yes |
+| 034 | Darumaka | |
+| 035 | Darmanitan | |
+| 036 | Litwick | |
+| 037 | Lampent | |
+| 038 | Chandelure | Yes |
+| 039 | Chi-Yu | |
+| 040 | Hearthflame Mask Ogerpon ex | |
+| 041 | Poliwag | |
+| 042 | Poliwhirl | |
+| 043 | Poliwrath | |
+| 044 | Goldeen | |
+| 045 | Seaking | Yes |
+| 046 | Jynx | Yes |
+| 047 | Corphish | |
+| 048 | Crawdaunt | Yes |
+| 049 | Feebas | |
+| 050 | Milotic | |
+| 051 | Snorunt | |
+| 052 | Glalie | Yes |
+| 053 | Froslass | Yes |
+| 054 | Glaceon | |
+| 055 | Phione | |
+| 056 | Froakie | |
+| 057 | Frogadier | |
+| 058 | Cramorant | |
+| 059 | Finizen | Yes |
+| 060 | Palafin | |
+| 061 | Palafin ex | |
+| 062 | Iron Bundle | Yes |
+| 063 | Walking Wake | Yes |
+| 064 | Wellspring Mask Ogerpon ex | Yes |
+| 065 | Zapdos | Yes |
+| 066 | Shinx | Yes |
+| 067 | Luxio | |
+| 068 | Luxray ex | |
+| 069 | Emolga | |
+| 070 | Helioptile | Yes |
+| 071 | Heliolisk | Yes |
+| 072 | Morpeko | |
+| 073 | Tadbulb | |
+| 074 | Bellibolt | Yes |
+| 075 | Wattrel | Yes |
+| 076 | Kilowattrel | Yes |
+| 077 | Iron Thorns ex | Yes |
+| 078 | Clefairy | Yes |
+| 079 | Clefable | Yes |
+| 080 | Abra | Yes |
+| 081 | Kadabra | Yes |
+| 082 | Alakazam | Yes |
+| 083 | Girafarig | Yes |
+| 084 | Farigiraf | Yes |
+| 085 | Chimecho | |
+| 086 | Flabébé | |
+| 087 | Floette | Yes |
+| 088 | Florges | |
+| 089 | Swirlix | |
+| 090 | Slurpuff | Yes |
+| 091 | Sandygast | Yes |
+| 092 | Palossand | |
+| 093 | Enamorus | Yes |
+| 094 | Scream Tail ex | |
+| 095 | Munkidori | Yes |
+| 096 | Fezandipiti | Yes |
+| 097 | Sandshrew | |
+| 098 | Sandslash | |
+| 099 | Hisuian Growlithe | Yes |
+| 100 | Hisuian Arcanine | |
+| 101 | Nosepass | |
+| 102 | Probopass | |
+| 103 | Timburr | |
+| 104 | Gurdurr | |
+| 105 | Conkeldurr | |
+| 106 | Greninja ex | Yes |
+| 107 | Hawlucha | |
+| 108 | Glimmet | |
+| 109 | Glimmora | |
+| 110 | Ting-Lu | Yes |
+| 111 | Okidogi | Yes |
+| 112 | Cornerstone Mask Ogerpon ex | |
+| 113 | Poochyena | Yes |
+| 114 | Mightyena | |
+| 115 | Venipede | Yes |
+| 116 | Whirlipede | |
+| 117 | Scolipede | |
+| 118 | Brute Bonnet | |
+| 119 | Skarmory | Yes |
+| 120 | Aron | Yes |
+| 121 | Lairon | |
+| 122 | Aggron | |
+| 123 | Heatran | Yes |
+| 124 | Varoom | |
+| 125 | Revavroom | |
+| 126 | Applin | Yes |
+| 127 | Dipplin | |
+| 128 | Dreepy | |
+| 129 | Drakloak | Yes |
+| 130 | Dragapult ex | |
+| 131 | Tatsugiri | |
+| 132 | Farfetch'd | Yes |
+| 133 | Chansey | Yes |
+| 134 | Blissey ex | |
+| 135 | Eevee | |
+| 136 | Snorlax | Yes |
+| 137 | Aipom | Yes |
+| 138 | Ambipom | Yes |
+| 139 | Ducklett | |
+| 140 | Swanna | |
+| 141 | Bloodmoon Ursaluna ex | Yes |
+| 142 | Accompanying Flute | |
+| 143 | Bug Catching Set | |
+| 144 | Caretaker | |
+| 145 | Carmine | |
+| 146 | Community Center | Yes |
+| 147 | Cook | |
+| 148 | Enhanced Hammer | |
+| 149 | Festival Grounds | |
+| 150 | Handheld Fan | Yes |
+| 151 | Hassel | Yes |
+| 152 | Hyper Aroma | |
+| 153 | Jamming Tower | |
+| 154 | Kieran | |
+| 155 | Lana's Aid | Yes |
+| 156 | Love Ball | |
+| 157 | Lucian | |
+| 158 | Lucky Helmet | |
+| 159 | Ogre's Mask | Yes |
+| 160 | Perrin | |
+| 161 | Raifort | Yes |
+| 162 | Scoop Up Cyclone | Yes |
+| 163 | Secret Box | Yes |
+| 164 | Survival Brace | |
+| 165 | Unfair Stamp | |
+| 166 | Boomerang Energy | |
+| 167 | Legacy Energy | |
+| 168 | Pinsir | |
+| 169 | Sunflora | |
+| 170 | Dipplin | Yes |
+| 171 | Poltchageist | |
+| 172 | Torkoal | |
+| 173 | Infernape | |
+| 174 | Froslass | |
+| 175 | Phione | |
+| 176 | Cramorant | |
+| 177 | Heliolisk | |
+| 178 | Wattrel | |
+| 179 | Chimecho | |
+| 180 | Enamorus | |
+| 181 | Hisuian Growlithe | |
+| 182 | Probopass | |
+| 183 | Timburr | |
+| 184 | Lairon | |
+| 185 | Applin | |
+| 186 | Tatsugiri | |
+| 187 | Chansey | |
+| 188 | Eevee | |
+| 189 | Sinistcha ex | Yes |
+| 190 | Teal Mask Ogerpon ex | |
+| 191 | Magcargo ex | |
+| 192 | Hearthflame Mask Ogerpon ex | |
+| 193 | Palafin ex | |
+| 194 | Wellspring Mask Ogerpon ex | |
+| 195 | Luxray ex | |
+| 196 | Iron Thorns ex | |
+| 197 | Scream Tail ex | |
+| 198 | Greninja ex | |
+| 199 | Cornerstone Mask Ogerpon ex | |
+| 200 | Dragapult ex | |
+| 201 | Blissey ex | |
+| 202 | Bloodmoon Ursaluna ex | |
+| 203 | Caretaker | |
+| 204 | Carmine | Yes |
+| 205 | Hassel | |
+| 206 | Kieran | |
+| 207 | Lana's Aid | |
+| 208 | Lucian | |
+| 209 | Perrin | |
+| 210 | Sinistcha ex | |
+| 211 | Teal Mask Ogerpon ex | |
+| 212 | Hearthflame Mask Ogerpon ex | |
+| 213 | Wellspring Mask Ogerpon ex | |
+| 214 | Greninja ex | |
+| 215 | Cornerstone Mask Ogerpon ex | |
+| 216 | Bloodmoon Ursaluna ex | |
+| 217 | Carmine | |
+| 218 | Kieran | |
+| 219 | Lana's Aid | Yes |
+| 220 | Perrin | |
+| 221 | Teal Mask Ogerpon ex | |
+| 222 | Bloodmoon Ursaluna ex | |
+| 223 | Buddy-Buddy Poffin | |
+| 224 | Enhanced Hammer | |
+| 225 | Rescue Board | |
+| 226 | Luminous Energy | |

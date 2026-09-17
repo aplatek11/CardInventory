@@ -1,0 +1,232 @@
+| Number | Pokemon Name | Own |
+|--------|--------------|-----|
+| 001 | Oddish | |
+| 002 | Gloom | Yes |
+| 003 | Bellossom | |
+| 004 | Scyther | Yes |
+| 005 | Shuckle | Yes |
+| 006 | Surskit | |
+| 007 | Masquerain | Yes |
+| 008 | Combee | Yes |
+| 009 | Foongus | |
+| 010 | Amoonguss | |
+| 011 | Phantump | |
+| 012 | Trevenant | |
+| 013 | Rowlet | Yes |
+| 014 | Dartrix | Yes |
+| 015 | Decidueye ex | Yes |
+| 016 | Bounsweet | Yes |
+| 017 | Steenee | Yes |
+| 018 | Tsareena | |
+| 019 | Smoliv | |
+| 020 | Dolliv | Yes |
+| 021 | Arboliva | Yes |
+| 022 | Toedscruel ex | |
+| 023 | Capsakid | |
+| 024 | Capsakid | Yes |
+| 025 | Scovillain | Yes |
+| 026 | Charmander | Yes |
+| 027 | Charmeleon | Yes |
+| 028 | Vulpix | Yes |
+| 029 | Ninetales | |
+| 030 | Entei | Yes |
+| 031 | Numel | |
+| 032 | Camerupt | |
+| 033 | Victini ex | |
+| 034 | Darumaka | Yes |
+| 035 | Darmanitan | |
+| 036 | Litwick | |
+| 037 | Lampent | |
+| 038 | Chandelure | |
+| 039 | Heatmor | Yes |
+| 040 | Larvesta | Yes |
+| 041 | Volcarona | Yes |
+| 042 | Eiscue ex | |
+| 043 | Charcadet | Yes |
+| 044 | Armarouge | |
+| 045 | Lapras | |
+| 046 | Carvanha | |
+| 047 | Sharpedo | Yes |
+| 048 | Buizel | Yes |
+| 049 | Floatzel | Yes |
+| 050 | Tympole | |
+| 051 | Palpitoad | Yes |
+| 052 | Seismitoad | Yes |
+| 053 | Cubchoo | Yes |
+| 054 | Beartic | |
+| 055 | Cryogonal | |
+| 056 | Froakie | Yes |
+| 057 | Frogadier | |
+| 058 | Wiglett | |
+| 059 | Wugtrio | |
+| 060 | Finizen | Yes |
+| 061 | Finizen | |
+| 062 | Palafin | Yes |
+| 063 | Magnemite | Yes |
+| 064 | Magneton | Yes |
+| 065 | Magnezone | Yes |
+| 066 | Tyranitar ex | |
+| 067 | Tynamo | Yes |
+| 068 | Eelektrik | Yes |
+| 069 | Eelektross | Yes |
+| 070 | Thundurus | Yes |
+| 071 | Toxel | Yes |
+| 072 | Toxtricity | Yes |
+| 073 | Pawmot ex | Yes |
+| 074 | Tadbulb | Yes |
+| 075 | Tadbulb | |
+| 076 | Tadbulb | Yes |
+| 077 | Bellibolt | Yes |
+| 078 | Bellibolt | |
+| 079 | Miraidon ex | |
+| 080 | Cleffa | |
+| 081 | Clefairy | |
+| 082 | Clefable ex | |
+| 083 | Togepi | |
+| 084 | Togetic | Yes |
+| 085 | Togekiss | Yes |
+| 086 | Espeon | |
+| 087 | Snubbull | Yes |
+| 088 | Granbull | Yes |
+| 089 | Mawile | Yes |
+| 090 | Spoink | Yes |
+| 091 | Grumpig | |
+| 092 | Lunatone | Yes |
+| 093 | Solrock | Yes |
+| 094 | Baltoy | |
+| 095 | Claydol | Yes |
+| 096 | Vespiquen ex | |
+| 097 | Sinistea | |
+| 098 | Polteageist | |
+| 099 | Greavard | Yes |
+| 100 | Greavard | Yes |
+| 101 | Houndstone | Yes |
+| 102 | Houndstone ex | |
+| 103 | Diglett | |
+| 104 | Dugtrio | Yes |
+| 105 | Larvitar | |
+| 106 | Pupitar | |
+| 107 | Nosepass | Yes |
+| 108 | Barboach | Yes |
+| 109 | Whiscash | |
+| 110 | Bonsly | Yes |
+| 111 | Drilbur | |
+| 112 | Stunfisk | |
+| 113 | Diggersby | |
+| 114 | Crabrawler | Yes |
+| 115 | Crabominable | |
+| 116 | Rockruff | Yes |
+| 117 | Lycanroc | |
+| 118 | Toedscool | Yes |
+| 119 | Toedscruel | |
+| 120 | Klawf ex | Yes |
+| 121 | Glimmet | |
+| 122 | Glimmet | |
+| 123 | Glimmora ex | |
+| 124 | Koraidon ex | |
+| 125 | Charizard ex | |
+| 126 | Paldean Wooper | |
+| 127 | Paldean Wooper | |
+| 128 | Paldean Clodsire | Yes |
+| 129 | Paldean Clodsire | |
+| 130 | Umbreon | |
+| 131 | Houndour | |
+| 132 | Houndour | |
+| 133 | Houndoom | Yes |
+| 134 | Houndoom ex | |
+| 135 | Absol ex | Yes |
+| 136 | Darkrai | Yes |
+| 137 | Inkay | Yes |
+| 138 | Malamar | |
+| 139 | Salandit | |
+| 140 | Salazzle | |
+| 141 | Scizor | Yes |
+| 142 | Skarmory | |
+| 143 | Mawile | |
+| 144 | Bronzor | Yes |
+| 145 | Bronzong | |
+| 146 | Probopass | |
+| 147 | Excadrill | |
+| 148 | Pawniard | Yes |
+| 149 | Bisharp | Yes |
+| 150 | Kingambit | |
+| 151 | Togedemaru | |
+| 152 | Meltan | Yes |
+| 153 | Melmetal ex | |
+| 154 | Varoom | |
+| 155 | Varoom | |
+| 156 | Revavroom ex | |
+| 157 | Dratini | |
+| 158 | Dragonair | |
+| 159 | Dragonite ex | |
+| 160 | Altaria | |
+| 161 | Drampa | |
+| 162 | Pidgey | |
+| 163 | Pidgeotto | Yes |
+| 164 | Pidgeot ex | |
+| 165 | Kangaskhan | |
+| 166 | Eevee | Yes |
+| 167 | Zigzagoon | |
+| 168 | Linoone | Yes |
+| 169 | Swablu | |
+| 170 | Lillipup | Yes |
+| 171 | Herdier | |
+| 172 | Stoutland | |
+| 173 | Audino | Yes |
+| 174 | Bouffalant | |
+| 175 | Bunnelby | |
+| 176 | Yungoos | Yes |
+| 177 | Gumshoos | Yes |
+| 178 | Skwovet | Yes |
+| 179 | Greedent ex | Yes |
+| 180 | Lechonk | |
+| 181 | Lechonk | |
+| 182 | Lechonk | |
+| 183 | Oinkologne | |
+| 184 | Oinkologne | |
+| 185 | Flamigo | |
+| 186 | Arven | |
+| 187 | Brassius | |
+| 188 | Geeta | Yes |
+| 189 | Letter of Encouragement | |
+| 190 | Ortega | Yes |
+| 191 | Patrol Cap | |
+| 192 | Pokémon League Headquarters | |
+| 193 | Poppy | |
+| 194 | Ryme | Yes |
+| 195 | Team Star Grunt | Yes |
+| 196 | Town Store | |
+| 197 | Vengeful Punch | |
+| 198 | Gloom (Illustration Rare) | Yes |
+| 199 | Ninetales (Illustration Rare) | |
+| 200 | Palafin (Illustration Rare) | Yes |
+| 201 | Bellibolt (Illustration Rare) | Yes |
+| 202 | Cleffa (Illustration Rare) | |
+| 203 | Larvitar (Illustration Rare) | |
+| 204 | Houndour (Illustration Rare) | |
+| 205 | Scizor (Illustration Rare) | |
+| 206 | Varoom (Illustration Rare) | |
+| 207 | Pidgey (Illustration Rare) | |
+| 208 | Pidgeotto (Illustration Rare) | Yes |
+| 209 | Lechonk (Illustration Rare) | |
+| 210 | Eiscue ex (Ultra Rare) | |
+| 211 | Tyranitar ex (Ultra Rare) | Yes |
+| 212 | Vespiquen ex (Ultra Rare) | |
+| 213 | Glimmora ex (Ultra Rare) | |
+| 214 | Absol ex (Ultra Rare) | |
+| 215 | Charizard ex (Ultra Rare) | |
+| 216 | Revavroom ex (Ultra Rare) | |
+| 217 | Pidgeot ex (Ultra Rare) | Yes |
+| 218 | Geeta (Ultra Rare) | |
+| 219 | Ortega (Ultra Rare) | |
+| 220 | Poppy (Ultra Rare) | |
+| 221 | Ryme (Ultra Rare) | Yes |
+| 222 | Eiscue ex (Special Illustration Rare) | |
+| 223 | Charizard ex (Special Illustration Rare) | Yes |
+| 224 | Revavroom ex (Special Illustration Rare) | |
+| 225 | Pidgeot ex (Special Illustration Rare) | |
+| 226 | Geeta (Special Illustration Rare) | Yes |
+| 227 | Poppy (Special Illustration Rare) | |
+| 228 | Charizard ex (Hyper Rare) | |
+| 229 | Artazon (Hyper Rare) | |
+| 230 | Basic Fire Energy | Yes |

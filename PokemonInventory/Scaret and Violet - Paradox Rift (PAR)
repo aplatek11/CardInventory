@@ -1,0 +1,268 @@
+| Number | Pokemon Name | Own |
+|--------|--------------|-----|
+| 001 | Surskit | |
+| 002 | Masquerain | |
+| 003 | Froslass ex | Yes |
+| 004 | Pansage | Yes |
+| 005 | Simisage | Yes |
+| 006 | Dwebble | Yes |
+| 007 | Crustle | |
+| 008 | Bounsweet | Yes |
+| 009 | Steenee | |
+| 010 | Blipbug | |
+| 011 | Dottler | Yes |
+| 012 | Orbeetle | |
+| 013 | Nymble | Yes |
+| 014 | Nymble | |
+| 015 | Toedscool | Yes |
+| 016 | Toedscool | Yes |
+| 017 | Toedscruel | |
+| 018 | Wo-Chien | Yes |
+| 019 | Magby | Yes |
+| 020 | Pansear | |
+| 021 | Simisear | |
+| 022 | Volcanion | Yes |
+| 023 | Fuecoco | Yes |
+| 024 | Crocalor | |
+| 025 | Charcadet | Yes |
+| 026 | Charcadet | Yes |
+| 027 | Armarouge ex | |
+| 028 | Iron Moth | Yes |
+| 029 | Chi-Yu | Yes |
+| 030 | Horsea | Yes |
+| 031 | Seadra | |
+| 032 | Kingdra | Yes |
+| 033 | Remoraid | Yes |
+| 034 | Octillery | Yes |
+| 035 | Feebas | Yes |
+| 036 | Milotic | Yes |
+| 037 | Snorunt | |
+| 038 | Garchomp ex | |
+| 039 | Mantyke | Yes |
+| 040 | Palkia | Yes |
+| 041 | Panpour | |
+| 042 | Simipour | |
+| 043 | Vanillite | |
+| 044 | Vanillish | Yes |
+| 045 | Vanilluxe | |
+| 046 | Tsareena ex | Yes |
+| 047 | Wimpod | Yes |
+| 048 | Wimpod | |
+| 049 | Golisopod | Yes |
+| 050 | Golisopod ex | |
+| 051 | Wiglett | |
+| 052 | Wiglett | Yes |
+| 053 | Wugtrio | |
+| 054 | Veluza | |
+| 055 | Dondozo | |
+| 056 | Iron Bundle | Yes |
+| 057 | Chien-Pao | Yes |
+| 058 | Mewtwo ex | |
+| 059 | Elekid | Yes |
+| 060 | Plusle | Yes |
+| 061 | Minun | |
+| 062 | Blitzle | Yes |
+| 063 | Zebstrika | |
+| 064 | Joltik | Yes |
+| 065 | Galvantula | Yes |
+| 066 | Zekrom | |
+| 067 | Oricorio | |
+| 068 | Tapu Koko ex | |
+| 069 | Toxel | Yes |
+| 070 | Iron Hands ex | Yes |
+| 071 | Natu | |
+| 072 | Xatu | Yes |
+| 073 | Latios | Yes |
+| 074 | Deoxys | Yes |
+| 075 | Yamask | |
+| 076 | Cofagrigus ex | |
+| 077 | Pumpkaboo | Yes |
+| 078 | Gourgeist | Yes |
+| 079 | Flittle | Yes |
+| 080 | Flittle | |
+| 081 | Espathra | Yes |
+| 082 | Tinkatink | Yes |
+| 083 | Tinkatink | |
+| 084 | Tinkatuff | Yes |
+| 085 | Tinkaton | |
+| 086 | Scream Tail | |
+| 087 | Gimmighoul | Yes |
+| 088 | Gimmighoul | |
+| 089 | Iron Valiant ex | Yes |
+| 090 | Onix | Yes |
+| 091 | Gligar | Yes |
+| 092 | Gliscor | |
+| 093 | Groudon | Yes |
+| 094 | Gible | |
+| 095 | Gabite | |
+| 096 | Mienfoo | Yes |
+| 097 | Mienshao | |
+| 098 | Hoopa ex | |
+| 099 | Minior | |
+| 100 | Toxtricity ex | |
+| 101 | Nacli | |
+| 102 | Nacli | |
+| 103 | Naclstack | |
+| 104 | Garganacl | Yes |
+| 105 | Klawf | Yes |
+| 106 | Flamigo | Yes |
+| 107 | Slither Wing | |
+| 108 | Sandy Shocks ex | |
+| 109 | Ting-Lu | |
+| 110 | Zubat | |
+| 111 | Golbat | |
+| 112 | Crobat | |
+| 113 | Absol | |
+| 114 | Purrloin | |
+| 115 | Liepard | |
+| 116 | Trubbish | |
+| 117 | Garbodor | |
+| 118 | Yveltal | Yes |
+| 119 | Nickit | Yes |
+| 120 | Thievul | Yes |
+| 121 | Morpeko | Yes |
+| 122 | Lokix | Yes |
+| 123 | Brute Bonnet | Yes |
+| 124 | Roaring Moon ex | |
+| 125 | Steelix | Yes |
+| 126 | Jirachi | |
+| 127 | Ferroseed | Yes |
+| 128 | Ferrothorn | |
+| 129 | Durant | |
+| 130 | Honedge | |
+| 131 | Honedge | |
+| 132 | Doublade | Yes |
+| 133 | Doublade | |
+| 134 | Aegislash | Yes |
+| 135 | Aegislash ex | |
+| 136 | Zacian | Yes |
+| 137 | Skeledirge ex | |
+| 138 | Orthworm | |
+| 139 | Gholdengo ex | |
+| 140 | Altaria ex | |
+| 141 | Tatsugiri | |
+| 142 | Porygon | Yes |
+| 143 | Porygon2 | Yes |
+| 144 | Porygon-Z | |
+| 145 | Aipom | Yes |
+| 146 | Ambipom | Yes |
+| 147 | Miltank | |
+| 148 | Whismur | Yes |
+| 149 | Loudred | Yes |
+| 150 | Exploud | Yes |
+| 151 | Spinda | |
+| 152 | Swablu | |
+| 153 | Tandemaus | |
+| 154 | Tandemaus | |
+| 155 | Maushold ex | Yes |
+| 156 | Bombirdier ex | |
+| 157 | Cyclizar | |
+| 158 | Iron Jugulis | Yes |
+| 159 | Ancient Booster Energy Capsule | Yes |
+| 160 | Counter Catcher | Yes |
+| 161 | Cursed Duster | |
+| 162 | Defiance Vest | Yes |
+| 163 | Earthen Vessel | |
+| 164 | Future Booster Energy Capsule | Yes |
+| 165 | Larry | |
+| 166 | Luxurious Cape | |
+| 167 | Mela | Yes |
+| 168 | Norman | |
+| 169 | Parasol Lady | Yes |
+| 170 | Professor Sada's Vitality | |
+| 171 | Professor Turo's Scenario | |
+| 172 | Rika | Yes |
+| 173 | Roark | |
+| 174 | Shauntal | |
+| 175 | Snorlax Doll | |
+| 176 | Technical Machine: Blindside | |
+| 177 | Technical Machine: Devolution | Yes |
+| 178 | Technical Machine: Evolution | |
+| 179 | Technical Machine: Turbo Energize | Yes |
+| 180 | Techno Radar | |
+| 181 | Tulip | |
+| 182 | Medical Energy | |
+| 183 | Crustle | |
+| 184 | Dottler | |
+| 185 | Toedscruel | |
+| 186 | Magby | |
+| 187 | Iron Moth | |
+| 188 | Snorunt | Yes |
+| 189 | Mantyke | |
+| 190 | Vanillish | |
+| 191 | Wimpod | Yes |
+| 192 | Veluza | |
+| 193 | Plusle | |
+| 194 | Minun | |
+| 195 | Blitzle | |
+| 196 | Joltik | |
+| 197 | Espathra | |
+| 198 | Gimmighoul | |
+| 199 | Groudon | |
+| 200 | Mienshao | |
+| 201 | Minior | |
+| 202 | Garganacl | |
+| 203 | Slither Wing | |
+| 204 | Garbodor | Yes |
+| 205 | Yveltal | |
+| 206 | Morpeko | |
+| 207 | Brute Bonnet | Yes |
+| 208 | Steelix | |
+| 209 | Ferrothorn | |
+| 210 | Aegislash | |
+| 211 | Aipom | Yes |
+| 212 | Loudred | Yes |
+| 213 | Swablu | |
+| 214 | Porygon-Z | |
+| 215 | Cyclizar | |
+| 216 | Iron Jugulis | |
+| 217 | Froslass ex | |
+| 218 | Armarouge ex | |
+| 219 | Garchomp ex | |
+| 220 | Tsareena ex | |
+| 221 | Golisopod ex | |
+| 222 | Tapu Koko ex | |
+| 223 | Iron Hands ex | |
+| 224 | Cofagrigus ex | |
+| 225 | Iron Valiant ex | |
+| 226 | Hoopa ex | |
+| 227 | Toxtricity ex | |
+| 228 | Sandy Shocks ex | |
+| 229 | Roaring Moon ex | |
+| 230 | Aegislash ex | |
+| 231 | Gholdengo ex | |
+| 232 | Altaria ex | |
+| 233 | Maushold ex | |
+| 234 | Bombirdier ex | |
+| 235 | Larry | |
+| 236 | Mela | |
+| 237 | Norman | |
+| 238 | Parasol Lady | |
+| 239 | Professor Sada's Vitality | |
+| 240 | Professor Turo's Scenario | |
+| 241 | Rika | |
+| 242 | Roark | |
+| 243 | Shauntal | |
+| 244 | Tulip | |
+| 245 | Garchomp ex | |
+| 246 | Golisopod ex | |
+| 247 | Tapu Koko ex | |
+| 248 | Iron Hands ex | |
+| 249 | Iron Valiant ex | |
+| 250 | Sandy Shocks ex | |
+| 251 | Roaring Moon ex | |
+| 252 | Gholdengo ex | |
+| 253 | Altaria ex | |
+| 254 | Mela | |
+| 255 | Parasol Lady | |
+| 256 | Professor Sada's Vitality | |
+| 257 | Professor Turo's Scenario | |
+| 258 | Rika | |
+| 259 | Tulip | |
+| 260 | Garchomp ex | |
+| 261 | Iron Valiant ex | |
+| 262 | Roaring Moon ex | |
+| 263 | Beach Court | |
+| 264 | Counter Catcher | |
+| 265 | Luxurious Cape | |
+| 266 | Reversal Energy | |

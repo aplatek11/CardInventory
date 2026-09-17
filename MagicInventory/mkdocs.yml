@@ -1,0 +1,25 @@
+site_name: Magic Cards
+site_description: "Magic: The Gathering decklists, card ideas, and deck-building notes"
+docs_dir: docs
+
+theme:
+  name: mkdocs
+
+markdown_extensions:
+  - tables
+  - attr_list
+
+nav:
+  - Home: README.md
+  - Starter Decks:
+      - Black Panther: Starter Decks/Starter Deck - Black Panther.md
+      - Final Fantasy 6: Starter Decks/Starter Deck - Final Fantasy 6.md
+      - Final Fantasy 7: Starter Decks/Starter Deck - Final Fantasy 7.md
+      - Final Fantasy 10: Starter Decks/Starter Deck - Final Fantasy 10.md
+      - Final Fantasy 14: Starter Decks/Starter Deck - Final Fantasy 14.md
+      - Grave Danger: Starter Decks/Starter Deck - Grave Danger.md
+      - Lord of the Rings - Eleven's Council: Starter Decks/Starter Deck - Lord of the Rings - Elevens Council.md
+      - TMNT: Starter Decks/Starter Deck - TMNT.md
+  - Custom Decks:
+      - Developing:
+          - TMNT Counter Crisis: Custom Decks/1 - Developing/TMNT Counter Crisis.md

@@ -1,0 +1,260 @@
+| Number | Pokemon Name | Own |
+|--------|--------------|-----|
+| 001 | Pineco | Yes |
+| 002 | Heracross | Yes |
+| 003 | Shroomish | Yes |
+| 004 | Breloom | Yes |
+| 005 | Cacnea | Yes |
+| 006 | Cacturne | Yes |
+| 007 | Tropius | Yes |
+| 008 | Scatterbug | Yes |
+| 009 | Spewpa | Yes |
+| 010 | Vivillon | Yes |
+| 011 | Skiddo | Yes |
+| 012 | Gogoat | |
+| 013 | Sprigatito | |
+| 014 | Floragato | Yes |
+| 015 | Meowscarada | Yes |
+| 016 | Tarountula | Yes |
+| 017 | Tarountula | Yes |
+| 018 | Tarountula | Yes |
+| 019 | Spidops ex | |
+| 020 | Smoliv | Yes |
+| 021 | Smoliv | Yes |
+| 022 | Dolliv | |
+| 023 | Arboliva | Yes |
+| 024 | Toedscool | |
+| 025 | Toedscool | |
+| 026 | Toedscruel | |
+| 027 | Capsakid | |
+| 028 | Capsakid | |
+| 029 | Scovillain | |
+| 030 | Growlithe | |
+| 031 | Growlithe | |
+| 032 | Arcanine ex | |
+| 033 | Houndour | Yes |
+| 034 | Houndoom | |
+| 035 | Torkoal | |
+| 036 | Fuecoco | |
+| 037 | Crocalor | |
+| 038 | Skeledirge | Yes |
+| 039 | Charcadet | Yes |
+| 040 | Charcadet | Yes |
+| 041 | Armarouge | Yes |
+| 042 | Slowpoke | Yes |
+| 043 | Slowbro | Yes |
+| 044 | Magikarp | |
+| 045 | Gyarados ex | |
+| 046 | Buizel | Yes |
+| 047 | Floatzel | Yes |
+| 048 | Alomomola | Yes |
+| 049 | Clauncher | |
+| 050 | Clawitzer | Yes |
+| 051 | Bruxish | |
+| 052 | Quaxly | Yes |
+| 053 | Quaxwell | Yes |
+| 054 | Quaquaval | |
+| 055 | Wiglett | Yes |
+| 056 | Wiglett | |
+| 057 | Wugtrio | |
+| 058 | Cetoddle | Yes |
+| 059 | Cetoddle | |
+| 060 | Cetitan | |
+| 061 | Dondozo | Yes |
+| 062 | Tatsugiri | |
+| 063 | Magnemite | Yes |
+| 064 | Magneton | Yes |
+| 065 | Magnezone ex | |
+| 066 | Mareep | |
+| 067 | Flaaffy | |
+| 068 | Pachirisu | |
+| 069 | Rotom | |
+| 070 | Rotom | |
+| 071 | Toxel | Yes |
+| 072 | Toxtricity | |
+| 073 | Pawmi | |
+| 074 | Pawmi | |
+| 075 | Pawmo | |
+| 076 | Pawmot | Yes |
+| 077 | Wattrel | |
+| 078 | Wattrel | Yes |
+| 079 | Kilowattrel | Yes |
+| 080 | Miraidon | Yes |
+| 081 | Miraidon ex | Yes |
+| 082 | Drowzee | Yes |
+| 083 | Hypno | Yes |
+| 084 | Ralts | Yes |
+| 085 | Kirlia | Yes |
+| 086 | Gardevoir ex | Yes |
+| 087 | Shuppet | |
+| 088 | Banette ex | Yes |
+| 089 | Drifloon | |
+| 090 | Drifblim | Yes |
+| 091 | Flabébé | Yes |
+| 092 | Floette | |
+| 093 | Florges | |
+| 094 | Dedenne | |
+| 095 | Dedenne | Yes |
+| 096 | Klefki | Yes |
+| 097 | Fidough | |
+| 098 | Fidough | |
+| 099 | Dachsbun | |
+| 100 | Flittle | |
+| 101 | Flittle | Yes |
+| 102 | Flittle | |
+| 103 | Espathra | Yes |
+| 104 | Greavard | Yes |
+| 105 | Greavard | Yes |
+| 106 | Houndstone | Yes |
+| 107 | Mankey | Yes |
+| 108 | Primeape | |
+| 109 | Annihilape | Yes |
+| 110 | Meditite | Yes |
+| 111 | Medicham | |
+| 112 | Riolu | |
+| 113 | Riolu | |
+| 114 | Lucario | |
+| 115 | Sandile | Yes |
+| 116 | Krokorok | Yes |
+| 117 | Krookodile | |
+| 118 | Hawlucha | Yes |
+| 119 | Silicobra | Yes |
+| 120 | Sandaconda | Yes |
+| 121 | Stonjourner | |
+| 122 | Klawf | Yes |
+| 123 | Great Tusk ex | |
+| 124 | Koraidon | Yes |
+| 125 | Koraidon ex | Yes |
+| 126 | Grimer | |
+| 127 | Muk | |
+| 128 | Seviper | Yes |
+| 129 | Spiritomb | Yes |
+| 130 | Croagunk | |
+| 131 | Toxicroak ex | |
+| 132 | Pawniard | |
+| 133 | Bisharp | Yes |
+| 134 | Kingambit | Yes |
+| 135 | Maschiff | |
+| 136 | Maschiff | Yes |
+| 137 | Mabosstiff | Yes |
+| 138 | Bombirdier | |
+| 139 | Forretress | |
+| 140 | Varoom | |
+| 141 | Varoom | |
+| 142 | Revavroom | |
+| 143 | Iron Treads ex | Yes |
+| 144 | Chansey | Yes |
+| 145 | Blissey | Yes |
+| 146 | Zangoose | |
+| 147 | Zangoose | Yes |
+| 148 | Starly | Yes |
+| 149 | Staravia | Yes |
+| 150 | Staraptor | Yes |
+| 151 | Skwovet | Yes |
+| 152 | Greedent | Yes |
+| 153 | Indeedee | Yes |
+| 154 | Lechonk | |
+| 155 | Lechonk | Yes |
+| 156 | Lechonk | Yes |
+| 157 | Oinkologne | |
+| 158 | Oinkologne ex | |
+| 159 | Tandemaus | |
+| 160 | Tandemaus | Yes |
+| 161 | Maushold | |
+| 162 | Squawkabilly | |
+| 163 | Cyclizar | |
+| 164 | Cyclizar | Yes |
+| 165 | Flamigo | Yes |
+| 166 | Arven | Yes |
+| 167 | Beach Court | Yes |
+| 168 | Crushing Hammer | Yes |
+| 169 | Defiance Band | Yes |
+| 170 | Electric Generator | Yes |
+| 171 | Energy Retrieval | Yes |
+| 172 | Energy Search | Yes |
+| 173 | Energy Switch | Yes |
+| 174 | Exp. Share | |
+| 175 | Jacq | |
+| 176 | Judge | |
+| 177 | Katy | |
+| 178 | Mesagoza | |
+| 179 | Miriam | |
+| 180 | Nemona | |
+| 181 | Nest Ball | |
+| 182 | Pal Pad | Yes |
+| 183 | Penny | Yes |
+| 184 | Picnic Basket | |
+| 185 | Poké Ball | |
+| 186 | Pokégear 3.0 | |
+| 187 | Pokémon Catcher | |
+| 188 | Potion | Yes |
+| 189 | Professor's Research (Sada) | Yes |
+| 190 | Professor's Research (Turo) | Yes |
+| 191 | Rare Candy | Yes |
+| 192 | Rock Chestplate | Yes |
+| 193 | Rocky Helmet | |
+| 194 | Switch | |
+| 195 | Team Star Grunt | |
+| 196 | Ultra Ball | |
+| 197 | Vitality Band | Yes |
+| 198 | Youngster | Yes |
+| 199 | Tarountula | |
+| 200 | Dolliv | Yes |
+| 201 | Toedscool | |
+| 202 | Scovillain | |
+| 203 | Armarouge | |
+| 204 | Slowpoke | |
+| 205 | Clauncher | |
+| 206 | Wiglett | |
+| 207 | Dondozo | |
+| 208 | Pachirisu | |
+| 209 | Pawmot | |
+| 210 | Drowzee | Yes |
+| 211 | Ralts | |
+| 212 | Kirlia | |
+| 213 | Fidough | |
+| 214 | Greavard | Yes |
+| 215 | Riolu | |
+| 216 | Sandile | |
+| 217 | Klawf | |
+| 218 | Mabosstiff | |
+| 219 | Bombirdier | |
+| 220 | Kingambit | |
+| 221 | Starly | |
+| 222 | Skwovet | |
+| 223 | Spidops ex | |
+| 224 | Arcanine ex | |
+| 225 | Gyarados ex | Yes |
+| 226 | Magnezone ex | Yes |
+| 227 | Miraidon ex | |
+| 228 | Gardevoir ex | |
+| 229 | Banette ex | |
+| 230 | Great Tusk ex | |
+| 231 | Koraidon ex | |
+| 232 | Toxicroak ex | Yes |
+| 233 | Iron Treads ex | |
+| 234 | Oinkologne ex | |
+| 235 | Arven | |
+| 236 | Jacq | |
+| 237 | Katy | |
+| 238 | Miriam | |
+| 239 | Penny | |
+| 240 | Professor's Research (Sada) | |
+| 241 | Professor's Research (Turo) | |
+| 242 | Team Star Grunt | |
+| 243 | Spidops ex | Yes |
+| 244 | Miraidon ex | |
+| 245 | Gardevoir ex | |
+| 246 | Great Tusk ex | |
+| 247 | Koraidon ex | Yes |
+| 248 | Iron Treads ex | |
+| 249 | Arven | Yes |
+| 250 | Jacq | |
+| 251 | Miriam | |
+| 252 | Penny | Yes |
+| 253 | Miraidon ex | |
+| 254 | Koraidon ex | Yes |
+| 255 | Nest Ball | |
+| 256 | Rare Candy | Yes |
+| 257 | Basic Lightning Energy | |
+| 258 | Basic Fighting Energy | |

@@ -1,0 +1,10 @@
+# Keep shared workspace settings while ignoring user-specific VS Code files.
+.vscode/*
+!.vscode/settings.json
+
+# Global Squad configuration includes a machine-specific absolute path.
+.squad/config.json
+
+# Operating system files.
+.DS_Store
+Thumbs.db

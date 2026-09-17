@@ -1,0 +1,220 @@
+| Number | Pokemon Name | Own |
+|--------|--------------|-----|
+| 001 | Scyther | |
+| 002 | Pineco | |
+| 003 | Seedot | |
+| 004 | Nuzleaf | |
+| 005 | Shiftry | |
+| 006 | Shroomish | |
+| 007 | Breloom | Yes |
+| 008 | Roselia | Yes |
+| 009 | Roserade | |
+| 010 | Turtwig | Yes |
+| 011 | Grotle | Yes |
+| 012 | Torterra ex | |
+| 013 | Shaymin | Yes |
+| 014 | Cottonee | Yes |
+| 015 | Whimsicott | Yes |
+| 016 | Deerling | |
+| 017 | Sawsbuck | |
+| 018 | Grubbin | |
+| 019 | Dhelmise | Yes |
+| 020 | Bramblin | Yes |
+| 021 | Brambleghast | Yes |
+| 022 | Scovillain ex | Yes |
+| 023 | Rellor | |
+| 024 | Rabsca | |
+| 025 | Iron Leaves ex | Yes |
+| 026 | Ponyta | |
+| 027 | Rapidash | Yes |
+| 028 | Slugma | Yes |
+| 029 | Magcargo | Yes |
+| 030 | Victini | |
+| 031 | Heatmor | |
+| 032 | Litten | |
+| 033 | Torracat | |
+| 034 | Incineroar ex | |
+| 035 | Turtonator | |
+| 036 | Sizzlipede | Yes |
+| 037 | Centiskorch | Yes |
+| 038 | Gouging Fire ex | |
+| 039 | Totodile | Yes |
+| 040 | Croconaw | |
+| 041 | Feraligatr | Yes |
+| 042 | Carvanha | |
+| 043 | Sharpedo | Yes |
+| 044 | Keldeo | |
+| 045 | Snom | |
+| 046 | Frosmoth | |
+| 047 | Wiglett | |
+| 048 | Finizen | Yes |
+| 049 | Palafin | |
+| 050 | Walking Wake ex | |
+| 051 | Pikachu | |
+| 052 | Raichu | |
+| 053 | Electabuzz | |
+| 054 | Electivire | Yes |
+| 055 | Charjabug | |
+| 056 | Vikavolt | |
+| 057 | Zeraora | |
+| 058 | Yamper | |
+| 059 | Boltund | |
+| 060 | Wugtrio ex | |
+| 061 | Iron Hands | Yes |
+| 062 | Iron Thorns | Yes |
+| 063 | Mr. Mime | |
+| 064 | Marill | Yes |
+| 065 | Azumarill | |
+| 066 | Girafarig | |
+| 067 | Latias | Yes |
+| 068 | Bronzor | |
+| 069 | Bronzong | |
+| 070 | Solosis | |
+| 071 | Duosion | Yes |
+| 072 | Reuniclus | |
+| 073 | Elgyem | |
+| 074 | Beheeyem | |
+| 075 | Cutiefly | |
+| 076 | Ribombee | |
+| 077 | Scream Tail | |
+| 078 | Flutter Mane | Yes |
+| 079 | Iron Valiant | |
+| 080 | Iron Valiant | Yes |
+| 081 | Iron Crown ex | Yes |
+| 082 | Meditite | |
+| 083 | Medicham | |
+| 084 | Relicanth | Yes |
+| 085 | Drilbur | Yes |
+| 086 | Excadrill | |
+| 087 | Golett | |
+| 088 | Golurk | Yes |
+| 089 | Rockruff | Yes |
+| 090 | Lycanroc | Yes |
+| 091 | Mudbray | |
+| 092 | Mudsdale | |
+| 093 | Rolycoly | |
+| 094 | Carkol | |
+| 095 | Coalossal | Yes |
+| 096 | Great Tusk | |
+| 097 | Great Tusk | |
+| 098 | Sandy Shocks | Yes |
+| 099 | Iron Boulder ex | Yes |
+| 100 | Ekans | Yes |
+| 101 | Arbok | |
+| 102 | Gastly | |
+| 103 | Haunter | |
+| 104 | Gengar ex | Yes |
+| 105 | Poochyena | Yes |
+| 106 | Mightyena | |
+| 107 | Sableye | |
+| 108 | Farigiraf ex | |
+| 109 | Roaring Moon | Yes |
+| 110 | Forretress | Yes |
+| 111 | Scizor ex | |
+| 112 | Mawile | |
+| 113 | Beldum | |
+| 114 | Metang | |
+| 115 | Metagross | |
+| 116 | Meltan | |
+| 117 | Melmetal | Yes |
+| 118 | Iron Treads | Yes |
+| 119 | Koraidon | |
+| 120 | Koraidon ex | |
+| 121 | Miraidon | |
+| 122 | Miraidon ex | |
+| 123 | Raging Bolt ex | |
+| 124 | Lickitung | |
+| 125 | Lickilicky | |
+| 126 | Hoothoot | Yes |
+| 127 | Noctowl | Yes |
+| 128 | Dunsparce | |
+| 129 | Dudunsparce | Yes |
+| 130 | Skitty | Yes |
+| 131 | Delcatty | |
+| 132 | Chatot | Yes |
+| 133 | Pidove | |
+| 134 | Tranquill | Yes |
+| 135 | Unfezant | |
+| 136 | Minccino | |
+| 137 | Cinccino | |
+| 138 | Drampa | |
+| 139 | Iron Jugulis | |
+| 140 | Ancient Booster Energy Capsule | |
+| 141 | Awakening Drum | |
+| 142 | Bianca's Devotion | |
+| 143 | Boxed Order | |
+| 144 | Buddy-Buddy Poffin | |
+| 145 | Ciphermaniac's Codebreaking | |
+| 146 | Eri | Yes |
+| 147 | Explorer's Guidance | |
+| 148 | Full Metal Lab | |
+| 149 | Future Booster Energy Capsule | Yes |
+| 150 | Hand Trimmer | |
+| 151 | Heavy Baton | Yes |
+| 152 | Hero's Cape | |
+| 153 | Master Ball | |
+| 154 | Maximum Belt | |
+| 155 | Morty's Conviction | |
+| 156 | Perilous Jungle | |
+| 157 | Prime Catcher | |
+| 158 | Reboot Pod | |
+| 159 | Rescue Board | |
+| 160 | Salvatore | Yes |
+| 161 | Mist Energy | Yes |
+| 162 | Neo Upper Energy | Yes |
+| 163 | Shiftry | Yes |
+| 164 | Grotle | |
+| 165 | Deerling | Yes |
+| 166 | Sawsbuck | |
+| 167 | Litten | |
+| 168 | Snom | Yes |
+| 169 | Charjabug | |
+| 170 | Bronzor | |
+| 171 | Reuniclus | |
+| 172 | Cutiefly | |
+| 173 | Relicanth | |
+| 174 | Excadrill | |
+| 175 | Mudsdale | |
+| 176 | Arbok | Yes |
+| 177 | Gastly | |
+| 178 | Metagross | |
+| 179 | Meltan | |
+| 180 | Lickitung | |
+| 181 | Chatot | |
+| 182 | Minccino | |
+| 183 | Cinccino | |
+| 184 | Drampa | |
+| 185 | Torterra ex | |
+| 186 | Iron Leaves ex | |
+| 187 | Incineroar ex | |
+| 188 | Gouging Fire ex | Yes |
+| 189 | Walking Wake ex | |
+| 190 | Wugtrio ex | |
+| 191 | Iron Crown ex | |
+| 192 | Iron Boulder ex | |
+| 193 | Gengar ex | |
+| 194 | Farigiraf ex | |
+| 195 | Scizor ex | |
+| 196 | Raging Bolt ex | |
+| 197 | Bianca's Devotion | |
+| 198 | Ciphermaniac's Codebreaking | |
+| 199 | Eri | |
+| 200 | Explorer's Guidance | |
+| 201 | Morty's Conviction | |
+| 202 | Salvatore | |
+| 203 | Iron Leaves ex | |
+| 204 | Gouging Fire ex | |
+| 205 | Walking Wake ex | |
+| 206 | Iron Crown ex | |
+| 207 | Iron Boulder ex | |
+| 208 | Raging Bolt ex | |
+| 209 | Bianca's Devotion | |
+| 210 | Eri | |
+| 211 | Morty's Conviction | |
+| 212 | Salvatore | |
+| 213 | Iron Leaves ex | |
+| 214 | Gouging Fire ex | |
+| 215 | Walking Wake ex | |
+| 216 | Iron Crown ex | |
+| 217 | Iron Boulder ex | |
+| 218 | Raging Bolt ex | |

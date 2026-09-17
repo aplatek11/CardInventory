@@ -1,0 +1,3 @@
+.vscode/
+# Squad: local config (machine-specific paths, never commit)
+.squad/config.json
