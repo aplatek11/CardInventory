@@ -21,7 +21,7 @@
 | Rat King, Verminister | Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, create a 1/1 black Rat creature token and put a +1/+1 counter on Rat King. T, Sacrifice three Rats: Return target creature card and all other cards with the same name as that card from your graveyard to the battlefield tapped. | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/B.svg" alt="{B}" width="16" height="16"> | S |
 <br>
 
-# ⚙️ Artifacts (7)
+# ⚙️ Artifacts (8)
 | Card Name | Description | Mana | Tier |
 |----------|--------------|------|-------|
 | Sol Ring | Add two diamonds | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> | A |
@@ -57,6 +57,7 @@
 | Doubling Season | If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead. If an effect would put one or more counters on a permaent you control, it puts twice that many of those counters on that permanent instead | 4 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | S |
 | Rhythm of the Wild | Creature spells you control can't be countered. Nontoken creatures you control have riot. | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/R.svg" alt="{R}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | A |
 <br>
+| Parallel Lives | If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many tokens onto the battlefield instead. | 3 (Colorless) / 1 (Green) |  |
 
 # 🔰 Enchantment – Aura (1)
 | Card Name | Description | Mana | Tier |
@@ -70,7 +71,7 @@
 | Fable of the Mirror - Breaker | I - Create a 2/2 red Goblin Shaman creature token with "Whenever this creature attacks, create a token". II - You may discard up to two cards. If you do, draw that many cards. III - Exile this Saga and return it to the battflied transformed under your control. Transformation - 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> -> Create a token that's copy of another target nonlegendary creature you control, except it has haste. Sacrfice it at the beginnintg of the nex end step. | 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/R.svg" alt="{R}" width="16" height="16"> | A |
 <br>
 
-# ⚡ Instants (12)
+# ⚡ Instants (13)
 | Card Name | Description | Mana | Tier |
 |----------|--------------|------|-------|
 | Fight On! | Return up to two target creature cards from your graveyard to your hand | 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/B.svg" alt="{B}" width="16" height="16"> | C |
@@ -88,7 +89,7 @@
 | Secure the Wastes | Create X 1/1 white Warrior creature tokens. | X <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/W.svg" alt="{W}" width="16" height="16"> |  |
 <br>
 
-# 📘 Sorceries (18)
+# 📘 Sorceries (20)
 | Card Name | Description | Mana | Tier |
 |----------|--------------|------|-------|
 | Gysahl Greens | Create a 2/2 green Bird creature token with "Whenever a land you control enters, this token gets a +1/+0 until end of turn". Flashback - 6 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> (You may cast this from your graveyard for its flashback cost. Then exile it) | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | C |
@@ -121,7 +122,6 @@
 | Path of Ancestry | This land enters tapped. Add one mana of any color in your commander's color identity. When that mana is spent cast a creature spell that shares a creature type with your commander, scry 1 |
 | Thriving Isle | This land enters tapped. As it enters, choose a color other than blue. Add Blue or one mana of the chosen color |
 | Thriving Moor | This land enters tapped. As it enters, choose a color other than black. Add Black or one mana of the chosen color |
-| City of Brass | Whenever this land becomes tapped, it deals 1 damage to you. Add one mana of any color |
 | Turtle Lair | Add diamond. Add one mana of any color. Spend this mana only to cast a ninja or turtle. 3 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> - Target Ninja or Turtle can't be blocked this turn |
 | Foot Headquarters | This land enters tapped. When this lands enters, you gain 1 life. Add White or black. |
 | Mutant Town | This land enters tapped. When this land enters you gain 1 life. Add Green or Blue |
@@ -132,7 +132,7 @@
 | Reliquary Tower | Once guarded by the Knights of the Reliquary, the tower stands now protected only by its own remoteness, its dusty treasures open to plunder by anyone. |
 <br>
 
- 🏞️ Basic Lands (21)
+# 🏞️ Basic Lands (21)
 | Card Name | Amount |
 |-----------|--------|
 | Forest | 5 |
@@ -142,16 +142,12 @@
 | Swamp | 4 |
 <br>
 
-# 🔄 Cards We Want to Change (2)
-- Change City of Brass => Kher Keep
-<br>
 
-# ➕ Cards We Want to Add (5)
-- Finale of Devastation
+# ➕ Cards We Want to Add (4)
 - Court of Grace
 - Idol of Oblivion
-- Parallel Lives
 - The Ozolith 
+- Kher Keep
 <br>
 
 # 🔍 Possible Cards to Look for in the Future (4)
@@ -159,3 +155,4 @@
 - Eladamri’s Call
 - Retrofitter Foundry
 - Helm of the Host
+- Finale of Devastation
