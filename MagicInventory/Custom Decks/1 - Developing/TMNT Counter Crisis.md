@@ -21,7 +21,7 @@
 | Rat King, Verminister | Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, create a 1/1 black Rat creature token and put a +1/+1 counter on Rat King. T, Sacrifice three Rats: Return target creature card and all other cards with the same name as that card from your graveyard to the battlefield tapped. | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/B.svg" alt="{B}" width="16" height="16"> | S |
 <br>
 
-# ⚙️ Artifacts (8)
+# ⚙️ Artifacts (9)
 | Card Name | Description | Mana | Tier |
 |----------|--------------|------|-------|
 | Sol Ring | Add two diamonds | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> | A |
@@ -32,6 +32,7 @@
 | Chocobo Racetrack | Landfall - Whenever a land you control enters, create a 2/2 green Bird cerature token with "Whenever a land you control enters, this token gets a +1/+0 until end of turn." | 3 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 2 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | B |
 | Phoenix Down | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/W.svg" alt="{W}" width="16" height="16"> - Exile this artifact: Choose one - Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped. Exile target Skeleton, Spirit, or Zombie. | 1 <img src="https://svgs.scryfall.io/card-symbols/W.svg" alt="{W}" width="16" height="16"> | B |
 | Trading Post | <img src="https://svgs.scryfall.io/card-symbols/1.svg" alt="{1}" width="16" height="16">, <img src="https://svgs.scryfall.io/card-symbols/T.svg" alt="{T}" width="16" height="16">, Discard a card: You gain 4 life. <img src="https://svgs.scryfall.io/card-symbols/1.svg" alt="{1}" width="16" height="16">, <img src="https://svgs.scryfall.io/card-symbols/T.svg" alt="{T}" width="16" height="16">, Pay 1 life: Put a 0/1 white Goat creature token onto the battlefield. <img src="https://svgs.scryfall.io/card-symbols/1.svg" alt="{1}" width="16" height="16">, <img src="https://svgs.scryfall.io/card-symbols/T.svg" alt="{T}" width="16" height="16">, Sacrifice a creature: Return target artifact card from your graveyard to your hand. <img src="https://svgs.scryfall.io/card-symbols/1.svg" alt="{1}" width="16" height="16">, <img src="https://svgs.scryfall.io/card-symbols/T.svg" alt="{T}" width="16" height="16">, Sacrifice an artifact: Draw a card. | 4 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> |  |
+| Idol of Oblivion | T: Draw a card. Activate only if you created a token this turn. 8, T, Sacrifice this artifact: Create a 10/10 colorless Eldrazi creature token. | 2 (Colorless) |  |
 <br>
 
 # 🚐 Artifact – Vehicle (1)
@@ -48,7 +49,7 @@
 | Samurai's Katana | Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it). Equipped creature gets +2/+2, has trample and haste, and is a Samura in additon to its other types | 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/R.svg" alt="{R}" width="16" height="16"> | B |
 <br>
 
-# ✨ Enchantments (5)
+# ✨ Enchantments (7)
 | Card Name | Description | Mana | Tier |
 |----------|--------------|------|-------|
 | Ninja Pizza | Foods you control have "Sacrifice this artiface: Add one mana of any color." At the beginning of your second main phase, create a food token. (It's an artifact with "2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16">, Sacrifice this token: gain 3 life) | 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | B |
@@ -56,8 +57,9 @@
 | High Score | If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead. At the beginning of your end step, draw a card if you control a creature with the greatest power among creatures on the battlefield | 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | S |
 | Doubling Season | If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead. If an effect would put one or more counters on a permaent you control, it puts twice that many of those counters on that permanent instead | 4 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | S |
 | Rhythm of the Wild | Creature spells you control can't be countered. Nontoken creatures you control have riot. | 1 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/R.svg" alt="{R}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> | A |
-<br>
 | Parallel Lives | If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many tokens onto the battlefield instead. | 3 (Colorless) / 1 (Green) |  |
+| Court of Grace | When this enchantment enters, you become the monarch. At the beginning of your upkeep, create a 1/1 white Spirit creature token with flying. If you're the monarch, create a 4/4 white Angel creature token with flying instead. | 2 (Colorless) ? 2(White) |  |
+<br>
 
 # 🔰 Enchantment – Aura (1)
 | Card Name | Description | Mana | Tier |
@@ -114,7 +116,7 @@
 | Spry and Mighty | Choose two creatures you control. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' powers. | 4 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> / 1 <img src="https://svgs.scryfall.io/card-symbols/G.svg" alt="{G}" width="16" height="16"> |  |
 <br>
 
-# 🌆 Special Lands (13)
+# 🌆 Special Lands (14)
 | Card Name | Description |
 |----------|--------------|
 | Command Tower | Add one mana of any color in your commander's color identity |
@@ -130,6 +132,7 @@
 | Hidden Hideout | This land enters tapped. Add one mana of any color in your commander's color identity. 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> - Target creature you control with a counter on it gains lifelink until end of turn |
 | The Golden Saucer | Add diamond. 2 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> - Flip a coin. If you win the flip, create a treasure token. 3 <img src="https://svgs.scryfall.io/card-symbols/C.svg" alt="{C}" width="16" height="16"> - Sacrifice two artifacts: Draw a card. |
 | Reliquary Tower | Once guarded by the Knights of the Reliquary, the tower stands now protected only by its own remoteness, its dusty treasures open to plunder by anyone. |
+| Kher Keep | T: Add 1 to your mana pool. 1R, T: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep onto the battlefield. |
 <br>
 
 # 🏞️ Basic Lands (21)
@@ -143,11 +146,8 @@
 <br>
 
 
-# ➕ Cards We Want to Add (4)
-- Court of Grace
-- Idol of Oblivion
+# ➕ Cards We Want to Add (1)
 - The Ozolith 
-- Kher Keep
 <br>
 
 # 🔍 Possible Cards to Look for in the Future (4)
